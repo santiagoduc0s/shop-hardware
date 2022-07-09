@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .theme-color-1 {
-  --theme-deafult: #ff4c3b; }
+  --theme-deafult: #c91828; }
 
 .theme-color-2 {
   --theme-deafult: #f0583d; }
@@ -237,7 +237,7 @@
     Typography css start
 ==========================**/
 body {
-  font-family: Lato, sans-serif;
+  font-family: 'Poppins', sans-serif;
   position: relative;
   background: #ffffff;
   font-size: 14px; }
@@ -3868,7 +3868,7 @@ button.btn.btn-solid:active, button.btn.btn-outline:active {
     right: 30px; }
 
 /*=====================
-    Demo CSS 
+    Demo CSS
 ==========================*/
 .full-scroll-menu {
   position: fixed;
@@ -6715,7 +6715,7 @@ header {
   position: relative;
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: Lato, sans-serif; }
+  font-family: 'Poppins', sans-serif; }
   .onhover-div img,
   .onhover-div i {
     cursor: pointer; }
