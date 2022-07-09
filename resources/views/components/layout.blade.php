@@ -17,9 +17,19 @@
 @endsection
 
 @section('content')
+
+    <x-ui.skeleton/>
+
+    <x-ui.header/>
+
     {{ $slot }}
 
+    <x-ui.footer/>
+
+    <x-ui.modals/>
+
     <x-ui.tap-top/>
+
 @endsection
 
 @section('js')
