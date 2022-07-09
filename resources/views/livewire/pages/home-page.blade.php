@@ -2907,6 +2907,6 @@
 
 @push('js')
     <script>
-        alert('jeejej')
+
     </script>
 @endpush
